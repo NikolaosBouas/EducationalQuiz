@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Educational</string>
+    <string name="next">Επόμενη</string>
+    <string name="question1">Ποια απί τις παρακάτω είναι εξίσωση κύκλου ;</string>
+    <string name="question2">Ποιο είναι το άθροισμα του 5x^3 – 3x^2 - 1 και 3x^2 + 1;</string>
+    <string name="question3">Επέλεξε τους πρώτους παράγοντς του 10001</string>
+    <string name="question4">Ποιοι από τους παρακάτω είναι ρητοί αριθμοί?</string>
+    <string name="question5">Ποια είναι η παράγωγος του e^x ;</string>
+    <string name="start">Εκκίνηση</string>
+    <string name="submit">Υποβολή</string>
+</resources>

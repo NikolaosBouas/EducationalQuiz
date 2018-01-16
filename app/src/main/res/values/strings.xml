@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Educational</string>
+    <string name="question1">Which one of the following is the equation of a circle?</string>
+    <string name="question2">What is the sum of 5x^3 – 3x^2 - 1 and 3x^2 + 1?</string>
+    <string name="question3">Check the prime factors of 10001</string>
+    <string name="question4">Which of the following are rational numbers?</string>
+    <string name="question5">What is the derivative of e^x</string>
+    <string name="start">Start</string>
+    <string name="submit">Submit</string>
+    <string name="next">Next>></string>
+</resources>
